@@ -1,7 +1,7 @@
 {
   "name": "bookmarks-api",
   "version": "1.0.0",
-  "description": "Démo d'un petit service API",
+  "description": "Test CGI",
   "main": "server.js",
   "type":"module",
   "engines": {
@@ -10,6 +10,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nicolas Chourot",
-  "license": "ISC"
+  "author": "Kévi Simard",
+  "license": ""
 }

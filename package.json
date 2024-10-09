@@ -1,5 +1,5 @@
 {
-  "name": "bookmarks-api",
+  "name": "test-api",
   "version": "1.0.0",
   "description": "Test CGI",
   "main": "server.js",
